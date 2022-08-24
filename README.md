@@ -10,7 +10,6 @@ ONLY DOMAIN
 * https://kometik.ersal.store/
 * https://kometik.stifa.ac.id/
 
-# Login Mobile UI
-
-![ice_screenshot_20220809-011500](https://user-images.githubusercontent.com/67509798/183475764-05e0ce5f-dede-442a-a49a-8b03a89ef43c.png)
+# Logo
+![logo_kometik](https://user-images.githubusercontent.com/67509798/186483931-ad66a660-734c-4b62-955c-47212eba9288.png)
 
